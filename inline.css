@@ -1,0 +1,27 @@
+.in-line{
+    display: inline;
+
+    
+}
+.block {
+    display: block;
+    color: white;
+    background-color: black;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid red;
+}
+.inline-block{
+    display: inline-block;
+    color: white;
+    background-color: black;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid red;
+}
+.block{
+    display: block;
+}
+.item{
+    background-color: blueviolet;
+}
